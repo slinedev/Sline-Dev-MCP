@@ -1,6 +1,6 @@
 # Sline Dev MCP Server
 
-This project implements a Model Context Protocol (MCP) server that interacts with Sline Dev. This protocol supports various tools to interact with different SHOPLINE APIs. At the moment the following APIs are supported:
+This project implements a Model Context Protocol (MCP) server that interacts with [Sline Dev](https://sline.dev). This protocol supports various tools to interact with different SHOPLINE APIs. At the moment the following APIs are supported:
 
 - Admin GraphQL API
 - Functions
@@ -8,10 +8,10 @@ This project implements a Model Context Protocol (MCP) server that interacts wit
 
 ## Setup
 
-To run the Sline MCP server using npx, use the following command:
+To run the [Sline MCP server](https://sline.dev/mcp.html) using npx, use the following command:
 
 ```bash
-npx -y @sline/dev-mcp@latest
+npx -y @sline.dev/mcp@latest
 ```
 
 ## Usage with Cursor or Claude Desktop
@@ -23,7 +23,7 @@ Add the following configuration. For more information, read the [Cursor MCP docu
   "mcpServers": {
     "sline-dev-mcp": {
       "command": "npx",
-      "args": ["-y", "@sline/dev-mcp@latest"]
+      "args": ["-y", "@sline.dev/mcp@latest"]
     }
   }
 }
@@ -36,7 +36,7 @@ On Windows, you might need to use this alternative configuration:
   "mcpServers": {
     "sline-dev-mcp": {
       "command": "cmd",
-      "args": ["/k", "npx", "-y", "@sline/dev-mcp@latest"]
+      "args": ["/k", "npx", "-y", "@sline.dev/mcp@latest"]
     }
   }
 }
@@ -51,7 +51,7 @@ In order to better understand how to improve the MCP server, this package makes 
   "mcpServers": {
     "sline-dev-mcp": {
       "command": "npx",
-      "args": ["-y", "@sline/dev-mcp@latest"],
+      "args": ["-y", "@sline.dev/mcp@latest"],
       "env": {
         "OPT_OUT_INSTRUMENTATION": "true"
       }
@@ -69,7 +69,7 @@ If you want Cursor or Claude Desktop to surface Polaris Web Components documenta
   "mcpServers": {
     "sline-dev-mcp": {
       "command": "npx",
-      "args": ["-y", "@sline/dev-mcp@latest"],
+      "args": ["-y", "@sline.dev/mcp@latest"],
       "env": {
         "POLARIS_UNIFIED": "true"
       }
