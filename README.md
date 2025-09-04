@@ -206,8 +206,8 @@ The AI assistant will explain:
 - [Theme Development Guide](https://developers.shoplineapp.com/themes)
 
 **Community Resources:**
-- [GitHub Repository](https://github.com/maxsimai/slinedev)
-- [Issue Tracker](https://github.com/maxsimai/slinedev/issues)
+- [GitHub Repository](https://github.com/slinedev)
+- [Issue Tracker](https://github.com//slinedev/)
 - [Developer Community](https://developers.shoplineapp.com/community)
 
 **Third-party Services:**
@@ -230,13 +230,13 @@ We welcome contributions from the SHOPLINE developer community:
 ## Support
 
 For technical support:
-- Create an issue on [GitHub](https://github.com/maxsimai/slinedev/issues)
+- Create an issue on [GitHub](https://github.com/slinedev/)
 - Visit the [SHOPLINE Developer Community](https://developers.shoplineapp.com/community)
 - Check the [sline.dev documentation](https://sline.dev)
 
 **Note:** This is a third-party community project. For official SHOPLINE API support, please contact SHOPLINE directly.
 - [Sline Template Engine](https://sline.dev/sline-template.html) - SHOPLINE's template language documentation (Official)
-- [Community Tools](https://sline.dev/mcp/docs/tools) - Developer tools and utilities (Community-driven)
+- [Community Tools](https://sline.dev/mcp) - Developer tools and utilities (Community-driven)
 
 ## 🤝 Contributing
 
@@ -244,7 +244,7 @@ We welcome contributions to improve SHOPLINE Dev MCP! Please see our [Contributi
 
 ### Development Setup
 
-1. Clone the repository from [GitHub](https://github.com/slinedev/shopline-dev-mcp)
+1. Clone the repository from [GitHub](https://github.com/slinedev/sline-dev-mcp)
 2. Install dependencies: `npm install`
 3. Run in development mode: `npm run dev`
 4. Run tests: `npm test`
@@ -256,11 +256,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ##  Support
 
 - 📖 [Documentation](https://sline.dev/mcp/)
-- 🐛 [Issue Tracker](https://github.com/slinedev/shopline-dev-mcp/issues)
-- 💬 [Discussions](https://github.com/slinedev/shopline-dev-mcp/discussions)
+- 🐛 [Issue Tracker](https://github.com/slinedev/sline-dev-mcp/issues)
+- 💬 [Discussions](https://github.com/slinedev/sline-dev-mcp/discussions)
 - 🌐 [SHOPLINE Platform](https://shoplineapp.com) (Official)
-
-Was this page helpful? [Yes](mailto:hello@sline.dev?subject=SHOPLINE%20Dev%20MCP%20-%20Helpful) [No](mailto:hello@sline.dev?subject=SHOPLINE%20Dev%20MCP%20-%20Not%20Helpful)
 
 ## 🙏 Acknowledgments
 
