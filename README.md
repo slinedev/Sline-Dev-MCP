@@ -404,11 +404,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ##  Support
 
 - 📖 [Documentation](https://sline.dev/mcp/)
-- 🐛 [Issue Tracker](https://github.com/slinedev/shopline-dev-mcp/issues)
-- 💬 [Discussions](https://github.com/slinedev/shopline-dev-mcp/discussions)
+- 🐛 [Issue Tracker](https://github.com/slinedev/sline-dev-mcp/issues)
+- 💬 [Discussions](https://github.com/slinedev/sline-dev-mcp/discussions)
 - 🌐 [SHOPLINE Platform](https://shoplineapp.com) (Official)
-
-Was this page helpful? [Yes](mailto:hello@sline.dev?subject=SHOPLINE%20Dev%20MCP%20-%20Helpful) [No](mailto:hello@sline.dev?subject=SHOPLINE%20Dev%20MCP%20-%20Not%20Helpful)
 
 ## 🙏 Acknowledgments
 
